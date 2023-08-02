@@ -161,7 +161,7 @@ cmarkgfm==0.4.2 \
     --hash=sha256:e8932bddf159064f04e946fbb64693753488de21586f20e840b3be51745c8c09 \
     --hash=sha256:f20900f16377f2109783ae9348d34bc80530808439591c3d3df73d5c7ef1a00c \
     # via readme-renderer
-cryptography==3.1.1 \
+cryptography==41.0.3 \
     --hash=sha256:21b47c59fcb1c36f1113f3709d37935368e34815ea1d7073862e92f810dc7499 \
     --hash=sha256:451cdf60be4dafb6a3b78802006a020e6cd709c22d240f94f7a0696240a17154 \
     --hash=sha256:4549b137d8cbe3c2eadfa56c0c858b78acbeff956bd461e40000b2164d9167c6 \
@@ -738,7 +738,7 @@ s3transfer==0.3.3 \
     --hash=sha256:2482b4259524933a022d59da830f51bd746db62f047d6eb213f2f8855dcb8a13 \
     --hash=sha256:921a37e2aefc64145e7b73d50c71bb4f26f46e4c9f414dc648c6245ff92cf7db \
     # via boto3
-sentry-sdk==0.18.0 \
+sentry-sdk==1.4.1 \
     --hash=sha256:1d91a0059d2d8bb980bec169578035c2f2d4b93cd8a4fb5b85c81904d33e221a \
     --hash=sha256:6222cf623e404c3e62b8e0e81c6db866ac2d12a663b7c1f7963350e3f397522a \
     # via -r requirements/main.in
