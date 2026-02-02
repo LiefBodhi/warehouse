@@ -531,7 +531,7 @@ premailer==3.7.0 \
 proto-plus==1.10.1 \
     --hash=sha256:79d2219292c7fd3f1c3a19b3e58bf9106bbdd2801603a7c552b3892743511159 \
     # via google-cloud-bigquery
-protobuf==3.13.0 \
+protobuf==6.33.5 \
     --hash=sha256:0bba42f439bf45c0f600c3c5993666fcb88e8441d011fad80a11df6f324eef33 \
     --hash=sha256:1e834076dfef9e585815757a2c7e4560c7ccc5962b9d09f831214c693a91b463 \
     --hash=sha256:339c3a003e3c797bc84499fa32e0aac83c768e67b3de4a5d7a5a9aa3b0da634c \
